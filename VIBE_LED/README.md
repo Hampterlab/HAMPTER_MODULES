@@ -1,4 +1,5 @@
 # HAMPTER VIBE LED
+![HAMPTER](./hampter.png)
 
 **HAMPTER VIBE LED**.  
 An intelligent LED display controlled by **LLM**.
@@ -140,3 +141,4 @@ Twp sine waves interfering to create complex patterns.
 
 - **Short Press**: Cycle patterns (0 -> 1 -> ... -> 5 -> 0).
 - **Long Press**: Power On/Off (Sleep).
+
